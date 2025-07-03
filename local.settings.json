@@ -1,0 +1,15 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "FABRIC_TENANT_ID": "your-tenant-id",
+    "FABRIC_CLIENT_ID": "your-client-id",
+    "FABRIC_CLIENT_SECRET": "your-client-secret",
+    "FABRIC_WORKSPACE_ID": "your-workspace-id",
+    "FABRIC_LAKEHOUSE_ID": "your-lakehouse-id",
+    "STORAGE_ACCOUNT_NAME": "your-storage-account",
+    "STORAGE_ACCOUNT_KEY": "your-storage-key",
+    "APPINSIGHTS_INSTRUMENTATIONKEY": "your-app-insights-key"
+  }
+}
